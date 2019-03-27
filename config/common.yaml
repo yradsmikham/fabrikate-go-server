@@ -3,4 +3,4 @@ subcomponents:
     config:
       image:
         repository: andrebriggs.azurecr.io/go-docker-k8s-demo
-        tag: "353"
+        tag: "20190327.10"
