@@ -2,5 +2,5 @@ subcomponents:
   go-server:
     config:
       image:
-        repository: andrebriggs.azurecr.io/go-docker-k8s-demo
+        repository: yradsmikwalmartacr.azurecr.io/go-docker-k8s-demo
         tag: "20190321.5"
