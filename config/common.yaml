@@ -3,6 +3,7 @@ subcomponents:
     config:
       "20190329":
         "7": ""
+        "8": ""
       image:
         repository: yradsmikwalmartacr.azurecr.io/go-docker-k8s-demo
         tag: "20190329.6"
