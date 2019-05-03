@@ -1,9 +1,6 @@
 subcomponents:
   go-server:
     config:
-      "20190329":
-        "7": ""
-        "8": ""
       image:
         repository: yradsmikwalmartacr.azurecr.io/go-docker-k8s-demo
         tag: 1.2.3
