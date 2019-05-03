@@ -1,0 +1,5 @@
+subcomponents:
+  go-server:
+    config:
+      image:
+        tag: 1.2.3
