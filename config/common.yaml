@@ -6,4 +6,4 @@ subcomponents:
         "8": ""
       image:
         repository: yradsmikwalmartacr.azurecr.io/go-docker-k8s-demo
-        tag: "20190329.11"
+        tag: 1.2.3
